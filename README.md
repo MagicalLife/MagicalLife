@@ -1,0 +1,2 @@
+# MagicalLife
+Blog
